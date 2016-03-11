@@ -12,3 +12,7 @@ Project description
 =====================================
 
 *Add your project description here*
+
+NEWS READER
+
+
