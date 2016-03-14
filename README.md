@@ -15,4 +15,8 @@ Project description
 
 NEWS READER
 
+Members:
 
+Dang Tran Khanh Duong - USTHBI4-030
+Do Quoc Tuan - USTHBI4-154
+Nguyen Minh Tuan - USTHBI4-156
